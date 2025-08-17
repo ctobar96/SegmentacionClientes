@@ -35,3 +35,8 @@ Con el entorno activado, instala todas las dependencias directamente desde requi
 ```shell
 uv pip install -r requirements.txt
 ```
+
+## Ejecutar el jupyter
+
+
+## Implementación de la API en FastAPI 
