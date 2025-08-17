@@ -4,7 +4,7 @@ En esta tarea deberás tomar uno de los modelos de Machine Learning que hayas de
 ## Objetivo
 Lograr empaquetar un modelo como un servicio de predicción accesible a través de la web, incluyendo pruebas automatizadas desde un cliente y documentación que permita a un tercero realizar consultas sin fricción.
 
-## Pasos previos utilizando la consola
+## Pasos previos utilizando uv
 ### Prerrequisito: Tener uv instalado en tu computadora.
 uves una herramienta moderna y rápida para gestionar entornos virtuales y dependencias de Python. Como alternativa a la conversación, puedes usar uvque ofrece un rendimiento significativamente mejor.
 
